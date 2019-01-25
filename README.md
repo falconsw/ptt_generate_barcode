@@ -26,7 +26,7 @@ PTT kargo barkod üretme/hesaplama fonksiyonu
  
  ### Hesaplama Formülü
  
- ```php
+ ```text
  Verilen 12 haneli barkod aşağıda örnek gösterilen metodla 1 ve 3 değerleri 
  ile sırasıyla çarpılıp, elde dile toplamı bir üstteki 10 un katına tamamlayan 
  sayı check digit olarak bulunur. 
