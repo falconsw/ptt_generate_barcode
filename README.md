@@ -36,8 +36,7 @@ PTT kargo barkod üretme/hesaplama fonksiyonu
   
   	
   Barkod	2	7	5	0	3	6	5	6	9	8	4	5	6		
-  Çarpan	1	3	1	3	1	3	1	3	1	3	1	3			
-  															
+  Çarpan	1	3	1	3	1	3	1	3	1	3	1	3																		
   Çarpım	2	21	5	0	3	18	5	18	9	24	4	15			
   															
   Toplam	124			
